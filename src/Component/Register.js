@@ -11,10 +11,6 @@ import LoginIcon from '@mui/icons-material/Login';
 import Checkbox from '@mui/material/Checkbox';
 import FormControlLabel from '@mui/material/FormControlLabel';
 
-
-
-
-
 function Register() {
     return (
         <div>
